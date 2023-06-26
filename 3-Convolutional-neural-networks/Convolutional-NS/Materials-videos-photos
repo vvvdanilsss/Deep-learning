@@ -1,0 +1,37 @@
+1. Свертки в нейронных сетях
+https://youtu.be/zTYMFGqYRBs
+2. Типичные задачи, решаемые сверточными НС
+https://youtu.be/12WCT3Fe3f8
+3. Задача классификации
+https://youtu.be/y8qF6dbmryk
+https://youtu.be/EATrYL_6pnY
+Блокнот - Classification.ipynb
+4. Квиз /Quizzes
+Блокнот - Quiz-1.ipynb
+Задание - Quiz-1.png
+5. Задача сегментации
+https://youtu.be/l5xogLICVWQ
+https://youtu.be/8YNauCKPy0Q
+Блокнот - Segmentation.ipynb
+6. Задача детектирования
+https://youtu.be/na9M3PD6rGI
+https://youtu.be/gUS14HMiSmk
+Блокнот - Detection.ipynb
+7. Автокодировщики
+https://youtu.be/fjvntBsb2xo
+https://youtu.be/1KPA1cKiWaU
+Блокнот - Simple-autoencoder.ipynb
+https://youtu.be/joIbcmdCqCg
+Блокнот - Conv-autoencoder.ipynb
+8. Практические моменты обучения НС
+https://youtu.be/7hCqUYc4bx8
+https://youtu.be/tk6xf8KgeFE
+Блокнот - Transfer-Learning.ipynb
+https://youtu.be/4lNCjrGZOYo
+Блокнот - DataAugmentation.ipynb
+9. Практические моменты обучения НС (продолжение)
+https://youtu.be/OL59v12SFQo
+https://youtu.be/RU18EnPGOP0
+Блокнот - WeightsInit.ipynb
+https://youtu.be/fpI1CsRJKBo
+Блокнот - Dropout.ipynb
