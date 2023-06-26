@@ -1,0 +1,25 @@
+1. Рекуррентные нейронные сети
+https://youtu.be/VZM1_JbxXm0
+2. Глубокие архитектуры RNN
+https://youtu.be/9Ppitl_KsTw
+3. LSTM
+https://youtu.be/NMNmjgP379w
+4. GRU
+https://youtu.be/K8j4mZCYonQ
+https://youtu.be/cUMClJs42oU
+Блокнот - /Text-generation/Text-char-by-char.ipynb
+5. Нормализация по мини-батчам
+https://youtu.be/8Eu1YjyoS40
+https://youtu.be/1jx5VbvXWRo
+Блокнот - Batch-normalization.ipynb
+6. Attention. Transformers
+https://youtu.be/b6SU0oZZi9s
+https://youtu.be/yzck_yfz_1I
+Блокнот - /RNNAttentionNotebook/RNN+Attention.ipynb
+7. BERT
+https://youtu.be/NmtIIo2iJvg
+8. LR schedule + Градиенты
+https://youtu.be/0hTOGp4_zSE
+Блокнот - Gradients.ipynb
+https://youtu.be/w0N52IWk6Xw
+Блокнот - LRScheduling.ipynb
