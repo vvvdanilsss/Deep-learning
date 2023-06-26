@@ -4,16 +4,16 @@ https://youtu.be/gPINt-zkgag
 https://youtu.be/ZcUxQku9_qU
 3. Построение однослойной полносвязной сети средствами Numpy
 https://youtu.be/ZagQYk67n-w
-Блокнот - DL_2_Single_layer_network.ipynb
+Блокнот - Single-layer-network.ipynb
 4. Градиентный и стохастический градиентный спуски
 https://youtu.be/6_rR23iY9oM
 5. Функции активации (начало)
 https://youtu.be/bOAqZV1tS1M
 6. Построение многослойной полносвязной сети средствами Numpy
 https://youtu.be/QkDr9Gi_uBc
-Блокнот - DL_2_multilayer_fully_connected_final.ipynb
+Блокнот - Multilayer-fully-connected-final.ipynb
 7. Функции активации (продолжение)
 https://youtu.be/R2LEJiZmMqE
 8. MLP Sklearn
 https://youtu.be/6ccnWMRkHuc
-Блокнот - DL_2_MNIST_perceptron.ipynb
+Блокнот - MNIST-perceptron.ipynb
