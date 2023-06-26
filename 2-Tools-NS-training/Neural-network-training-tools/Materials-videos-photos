@@ -1,0 +1,28 @@
+1. Глубина нейронныйх сетей и некоторые проблемы обучения
+https://youtu.be/sDL2py0AFoo
+2. Autograd, TF
+https://youtu.be/4-hZWsuQ_Ms
+https://youtu.be/IM5FSDzzltE
+Блокнот - TF-regression.ipynb
+https://youtu.be/OVRqPeyskfs
+Блокнот - TF-classification.ipynb
+3. Квиз /Quizzes
+Блокнот - Quiz-1.ipynb
+Задание - Quiz-1.png
+4. Keras
+https://youtu.be/b20X6HqSvXM
+https://youtu.be/gB1R-Ld0UNA
+Блокнот - Keras-1.ipynb
+https://youtu.be/GpDZBCLlMgs
+Блокнот - Keras-2.ipynb
+5. Квиз /Quizzes
+Блокнот - Quiz-2.ipynb
+Задание - Quiz-2.png
+6. Гиперпараметры и их подбор
+https://youtu.be/exQcoY2DNLI
+https://youtu.be/GqESZGWbAnQ
+Блокнот - Hyperparams.ipynb
+7. Under- and Over-fitting
+https://youtu.be/DXp0JkAI5Gw
+https://youtu.be/1OBrEb1iDGg
+Блокнот - Hyperparams.ipynb
